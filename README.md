@@ -1,4 +1,4 @@
-schematools-ios_client
+[WIP]schematools-ios_client
 ======================
 
-Generates iOS API client from JSON Schema
+see https://github.com/kaiinui/schematools-api_builder
